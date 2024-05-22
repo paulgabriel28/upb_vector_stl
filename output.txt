@@ -1,0 +1,41 @@
+Pret material: 100
+Pret manopera: 200
+Pret: 300
+--------------------------------
+
+Pret asamblare: 300
+Piese cumparate: 
+Tip: 'piesa1' | Valoare achizitie: 100
+Tip: 'piesa2' | Valoare achizitie: 200
+Pret: 600
+--------------------------------
+
+Culori: rosu albastru 
+Pret asamblare: 300
+Piese cumparate: 
+Tip: 'piesa3' | Valoare achizitie: 100
+Tip: 'piesa4' | Valoare achizitie: 200
+Pret: 600
+--------------------------------
+
+Pret material: 500
+Pret manopera: 200
+Pret: 700
+--------------------------------
+
+Pret asamblare: 600
+Piese cumparate: 
+Tip: 'piesa5' | Valoare achizitie: 300
+Tip: 'piesa6' | Valoare achizitie: 210
+Pret: 1110
+--------------------------------
+
+Culori: verde galben 
+Pret asamblare: 300
+Piese cumparate: 
+Tip: 'piesa7' | Valoare achizitie: 100
+Tip: 'piesa8' | Valoare achizitie: 200
+Pret: 600
+--------------------------------
+
+Suma totala: 3910
